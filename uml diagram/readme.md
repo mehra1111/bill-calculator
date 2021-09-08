@@ -3,4 +3,5 @@ We have are 4 diff functions
 - mid()
 - rich()
 - industries()
+
 our program will check in which category we fall and then it will calculate bill and give subsidies acc to our entered unit.
