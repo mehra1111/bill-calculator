@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/mehra1111/bill-calculator)](https://github.com/mehra1111/bill-calculator/issues)
+
 our project is about calculating electricity bill
 
 - First Step we have to Enter the electricity consumption unit.
