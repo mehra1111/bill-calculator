@@ -1,4 +1,4 @@
-this project is about calculating electricity bill
+our project is about calculating electricity bill
 
 - First Step we have to Enter the electricity consumption unit.
 - Their are 4 diff functions 
