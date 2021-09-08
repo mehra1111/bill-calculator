@@ -1,5 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/mehra1111/bill-calculator)](https://github.com/mehra1111/bill-calculator/issues)
 ![code_quality_score](https://www.code-inspector.com/project/28251/status/svg)
+![code_quality_score](https://www.code-inspector.com/project/28251/score/svg)
 
 
 our project is about calculating electricity bill
